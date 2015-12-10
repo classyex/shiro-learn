@@ -42,6 +42,7 @@ public class PermissionTest extends BaseTest {
 		subject.checkPermissions("system:user:create,delete,update,view");
 		subject.checkPermissions("system:user:*");
 		subject.checkPermissions("system:user");
+		subject.checkPermissions("system:user:view:1");
 	}
 	
 }
