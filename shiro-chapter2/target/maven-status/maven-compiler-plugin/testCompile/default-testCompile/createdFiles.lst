@@ -1,0 +1,10 @@
+cn\yex\shiro\chapter2\authenticator\strategy\OnlyOneAuthenticatorStrategy.class
+cn\yex\shiro\chapter2\realm\MyRealm3.class
+cn\yex\shiro\chapter2\LoginLogoutWithRealmTest.class
+cn\yex\shiro\chapter2\LoginLogoutTest.class
+cn\yex\shiro\chapter2\realm\MyRealm2.class
+cn\yex\shiro\chapter2\LoginLogoutWithJDBC.class
+cn\yex\shiro\chapter2\realm\MyRealm1.class
+cn\yex\shiro\chapter2\AuthenticatorTest.class
+cn\yex\shiro\chapter2\authenticator\strategy\AtLeastTwoAuthenticatorStrategy.class
+cn\yex\shiro\chapter2\realm\MyRealm4.class
